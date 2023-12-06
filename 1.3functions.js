@@ -11,8 +11,13 @@ function displayResultPassive(data) {
     console.log("Sum's result is : " + data);
 }
 const ans =sum(5,5,displayResult)
+
+//task
+
 // You are only allowed to call one function after this
 // How will you displayResult of a sum
+
+//by me
 
 //a callback function
 //i have passed a string name displayResult to a function and stores it in a fun var after which
